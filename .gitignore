@@ -1,0 +1,7 @@
+.vscode
+/models
+/node_modules
+/uploads
+index.html
+index.py
+payload.svg
